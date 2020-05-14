@@ -14,11 +14,11 @@ An [IBM Cloud account](https://ibm.biz/Bdqy3t) is needed.
 
 ## Provision of Watson Assistant, Discovery and IBM Cloud Functions
 
-[CFC-StarterKit-Prereq]()
+[CFC-StarterKit-Prereq](https://github.com/IBMDevConnect/DBS2020/blob/master/NLP_CFC/CFC-StarterKit-Prereq.docx)
 
 # Reference Videos
 
-[Videos]()
+[Videos](https://ibm.box.com/s/8gw5en7ufxd7iu6qu80np13mtb5v8r2x)
 
 
 
