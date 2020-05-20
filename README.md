@@ -6,3 +6,15 @@
  1) Natural Language Processing
  
  2) AI/ML Algorithms and Fundamentals
+ 
+ 3) AI Fairness and Explainability
+ 
+ 4) Internet of Things (IOT) and Artificial Intelligence (AI)
+ 
+ 4) Quantum Computing
+ 
+ 5) OpenSource
+ 
+ 6) Devops and Urban Code
+ 
+ 7) Cloud, Containers and MicroServices
