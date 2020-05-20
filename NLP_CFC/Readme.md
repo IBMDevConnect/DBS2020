@@ -24,5 +24,6 @@ An [IBM Cloud account](https://ibm.biz/Bdqy3t) is needed.
 Did you happen to miss the session or would like to refer to it again? Please find the recorded feed for the session held. The videos are divided in 2 parts. Video1 containsthe concepts and demos and Video 2 is the hands on lab using Watson Assistant.
 
 [Video - Concepts and Demo ](https://youtu.be/s5lawEU_EYI)
+
 [Video- Hands On Lab using Watson Assistant](https://youtu.be/S5qa3H4rtMk)
 
