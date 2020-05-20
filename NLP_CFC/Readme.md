@@ -20,5 +20,8 @@ An [IBM Cloud account](https://ibm.biz/Bdqy3t) is needed.
 
 [Videos](https://ibm.box.com/s/8gw5en7ufxd7iu6qu80np13mtb5v8r2x)
 
+# Recording of the Sessions
 
+[Video1](https://youtu.be/s5lawEU_EYI)
+[Video2](https://youtu.be/S5qa3H4rtMk)
 
