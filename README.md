@@ -5,7 +5,7 @@
  
  1) [Natural Language Processing](https://github.com/IBMDevConnect/DBS2020/tree/master/NLP_CFC)
  
- 2) AI/ML Algorithms and Fundamentals
+ 2) [AI/ML Algorithms and Fundamentals](https://github.com/IBMDevConnect/DBS2020/tree/master/AI4Enterprise)
  
  3) AI Fairness and Explainability
  
