@@ -18,3 +18,15 @@
  6) Devops and Urban Code
  
  7) Cloud, Containers and MicroServices
+ 
+ 
+# Prerequisites
+
+## Access to the IBM Cloud
+
+Sign up to an [IBM Cloud account by clicking here](https://ibm.biz/Bdqy3t)
+
+## Provision of Watson Assistant, Discovery and IBM Cloud Functions
+
+[CFC-StarterKit-Prereq](https://github.com/IBMDevConnect/DBS2020/blob/master/NLP_CFC/CFC-StarterKit-Prereq.docx)
+
