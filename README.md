@@ -31,5 +31,5 @@ Sign up to an [IBM Cloud account by clicking here](https://ibm.biz/Bdqy3t)
 [CFC-StarterKit-Prereq](https://github.com/IBMDevConnect/DBS2020/blob/master/NLP_CFC/CFC-StarterKit-Prereq.docx)
 
 ## Device
-Please attend these workships from your personal devices or machines.
+Please attend these workshos from your personal desktops or machines.
 
