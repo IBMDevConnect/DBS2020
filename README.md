@@ -30,10 +30,6 @@ Sign up to an [IBM Cloud account by clicking here](https://ibm.biz/Bdqy3t)
 
 Follow the steps provided in the [document](https://github.com/IBMDevConnect/DBS2020/blob/master/QuizApp.docx) to validate that the IBM Cloud Account is active. Please note that participants need to submit the questions at the last step.
 
-# Provision of Watson Assistant, Discovery and IBM Cloud Functions
-
-[CFC-StarterKit-Prereq](https://github.com/IBMDevConnect/DBS2020/blob/master/NLP_CFC/CFC-StarterKit-Prereq.docx)
-
 ## Device
 Please attend these workshos from your personal desktops or machines.
 
