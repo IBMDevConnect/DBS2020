@@ -1,6 +1,6 @@
 ## Watson Openscale MRM - Model Risk Management
 
-### Provision Services
+### Step 1 - Provision Services on IBM Cloud
 
 1. Go to cloud catalog, filter the services by AI, provision Watson Studio, Watson Openscale and Watson Machine Learning instances.
 NOTE: Make sure you are provisioning Watson Machine Learning service in Dallas data center since openscale is available there.
@@ -17,7 +17,7 @@ NOTE: Make sure you are provisioning Watson Machine Learning service in Dallas d
 
 ![](img/cloud-04.png)
 
-### WML Credentials
+### Step 2 - Generate and copy WML Credentials
 
 1. From the resource list, launch openscale. Click on ```Add machine learning provider``` and configure the wml instance that you have provisioned.
 
@@ -28,7 +28,7 @@ NOTE: Make sure you are provisioning Watson Machine Learning service in Dallas d
 ![](img/wml-cred.png)
 
 
-### Run notebooks and deploy them using WML
+### Step 3 - Run notebooks on Watson Studio and deploy them using WML Service
 
 1. From resource list, open the instance of Watson Studio that has just been provisioned and click on ```Get Started```. From the landing page of watson studio, click on create a project.
 
@@ -62,7 +62,7 @@ These files will be provided to you prior to the workshop, either download them 
 8. Once these notebooks are run, two models will be deployed using your watson machine learning instance.
 
 
-### Add data in Cloud-Object-Storage
+### Step 4 - Add data in Cloud-Object-Storage and copy service credentials
 
 1. Open cloud object storage instance from ```Resource list```.
 Buckets -> openscaledbs-donotdelete..... You will be able to see the notebooks that you have imported on Watson Studio.
@@ -79,7 +79,7 @@ Buckets -> openscaledbs-donotdelete..... You will be able to see the notebooks t
 
 ![](img/cos-02.png)
 
-### Monitor the models on Openscale
+### Step 5 - Monitor the models using Watson Openscale
 
 1. Launch Openscale service from ```Resource list```, configure WML details and click on ```Add Dashboard```.
 
