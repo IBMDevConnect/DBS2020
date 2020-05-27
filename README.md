@@ -7,7 +7,7 @@
  
  2) [AI/ML Algorithms and Fundamentals on May 21](https://github.com/IBMDevConnect/DBS2020/tree/master/AI4Enterprise)
  
- 3) [AI Fairness and Explainability](https://github.com/IBMDevConnect/DBS2020/tree/master/AIBias_openscale)
+ 3) [AI Fairness and Explainability](https://github.com/IBMDevConnect/DBS2020/tree/master/Openscale-Workshop)
  
  4) Internet of Things (IOT) and Artificial Intelligence (AI)
  
