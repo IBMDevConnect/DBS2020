@@ -139,7 +139,13 @@ Once the upload is done, you will get the model monitors with various tests.
 
 ![](img/openscale-compare.png)
 
+Select the other model monitor that you want yo compare this with.
+
 ![](img/openscale-compare-01.png)
+
+Once you select the other model, these models are compared and you will be provided with results. 
+
+![](img/openscale-compare-02.png)
 
 14. Additional features like how to download model report can also be performed using the options provided in ```Actions``` within model monitor on Watson Openscale.
 
