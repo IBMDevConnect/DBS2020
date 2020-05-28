@@ -1,6 +1,6 @@
 ## Watson Openscale MRM - Model Risk Management
 
-## Recording of the Session held on May 28 has been uploaded [here]()
+## Recording of the Session held on May 28 has been uploaded [here](https://youtu.be/EdNblLzk2mQ)
 
 ### Step 1 - Provision Services on IBM Cloud
 
