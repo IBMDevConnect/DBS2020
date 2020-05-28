@@ -1,5 +1,7 @@
 ## Watson Openscale MRM - Model Risk Management
 
+## Recording of the Session held on May 28 has been uploaded [here]()
+
 ### Step 1 - Provision Services on IBM Cloud
 
 1. Go to cloud catalog, filter the services by AI, provision Watson Studio, Watson Openscale and Watson Machine Learning instances.
