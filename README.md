@@ -9,15 +9,15 @@
  
  3) [AI Fairness and Explainability on May 28](https://github.com/IBMDevConnect/DBS2020/tree/master/Openscale-Workshop)
  
- 4) Internet of Things (IOT) and Artificial Intelligence (AI)
- 
  4) Quantum Computing
  
- 5) OpenSource
+ 5) Internet of Things (IOT) and Artificial Intelligence (AI)
  
- 6) Devops and Urban Code
+ 6) OpenSource
  
- 7) Cloud, Containers and MicroServices
+ 7) Devops and Urban Code
+ 
+ 8) Cloud, Containers and MicroServices
  
  
 # Prerequisites
