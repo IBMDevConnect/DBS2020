@@ -9,7 +9,7 @@
  
  3) [AI Fairness and Explainability on May 28](https://github.com/IBMDevConnect/DBS2020/tree/master/Openscale-Workshop)
  
- 4) [Quantum Computing on June 4]()
+ 4) [Quantum Computing on June 4](https://github.com/IBMDevConnect/DBS2020/tree/master/Quantum)
  
  5) Internet of Things (IOT) and Artificial Intelligence (AI)
  
