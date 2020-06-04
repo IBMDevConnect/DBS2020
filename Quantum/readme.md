@@ -12,6 +12,6 @@ https://ibm-q4ai.mybluemix.net/
 
 https://ibm-q-financial-demo.mybluemix.net/#simulation
 
-##This session was recorded, the video links to the Makers Workshop are here:
-##Fundaementals and Theory()
+## This session was recorded, the video links to the Makers Workshop are here:
+## Fundaementals and Theory()
 ## Run your first Quantum Program()
