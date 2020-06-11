@@ -11,11 +11,11 @@
  
  4) [Quantum Computing on June 4](https://github.com/IBMDevConnect/DBS2020/blob/master/Quantum/readme.md)
  
- 5) [Internet of Things (IOT) and Artificial Intelligence (AI)](https://github.com/IBMDevConnect/DBS2020/tree/master/IoT)
+ 5) [Internet of Things (IOT) and Artificial Intelligence (AI) on June 11](https://github.com/IBMDevConnect/DBS2020/tree/master/IoT)
  
- 6) OpenSource
+ 6) [Devops and UrbanCode on June18 ]()
  
- 7) Devops and Urban Code
+ 7) Open Source
  
  8) Cloud, Containers and MicroServices
  
