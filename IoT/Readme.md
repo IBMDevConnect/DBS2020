@@ -1,3 +1,7 @@
+## These session were recorded, Please find the recorded video link to the session on June 11, 2020
+## [Makers Workshop on AI and IOT Part1](https://youtu.be/sktxa2QZZVE)
+## [Makers Workshop on AI and IOT Part2](https://youtu.be/umpST_5N-WA)
+
 # IoT and AI Workshop 
 
 ## Prerequisites 
