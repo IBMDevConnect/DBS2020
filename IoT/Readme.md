@@ -1,4 +1,4 @@
-# IoT Workshop - DBS
+# AI and IoT Workshop - DBS
 
 ## Prerequisites 
 
