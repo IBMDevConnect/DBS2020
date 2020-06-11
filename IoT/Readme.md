@@ -19,3 +19,12 @@ Further details will be provided in the workshop
 ## [Link to simulator](https://flask-app-sa.eu-gb.cf.appdomain.cloud/):
 
 This simulates real-time data - https://flask-app-sa.eu-gb.cf.appdomain.cloud/
+
+
+## Similar resources on IBM Developer
+
+https://github.com/IBM/iot-edge-predictive-models-dsx
+
+https://developer.ibm.com/series/introduction-to-streaming-analytics-with-ibm-streams/
+
+https://github.com/IBM/CognitiveIoT?cm_sp=IBMCode-_-detect-voltage-anomalies-in-household-iot-devices-_-Get-the-Code
