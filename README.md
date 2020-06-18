@@ -13,7 +13,7 @@
  
  5) [Internet of Things (IOT) and Artificial Intelligence (AI) on June 11](https://github.com/IBMDevConnect/DBS2020/tree/master/IoT)
  
- 6) [Devops and UrbanCode on June18 ]()
+ 6) [Devops and UrbanCode on June18 ](https://github.com/IBMDevConnect/DBS2020/tree/master/Devsecops)
  
  7) Open Source
  
