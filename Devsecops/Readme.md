@@ -6,6 +6,6 @@ Pre-req:
 
 Lab Reference Link: https://www.ibm.com/cloud/architecture/tutorials/create-a-custom-toolchain
 
-##Recording of the Session
-#[Devops and Urban Code Part 1](https://youtu.be/Obf0hgrOgFM)
-#[Devops and Urban Code Part 2](https://youtu.be/U89janWf-KI)
+## Recording of the Session
+# [Devops and Urban Code Part 1](https://youtu.be/Obf0hgrOgFM)
+# [Devops and Urban Code Part 2](https://youtu.be/U89janWf-KI)
