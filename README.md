@@ -15,7 +15,7 @@
  
  6) [Devops and UrbanCode on June18 ](https://github.com/IBMDevConnect/DBS2020/tree/master/Devsecops)
  
- 7) Open Source
+ 7) [Open Source on June 25]()
  
  8) Cloud, Containers and MicroServices
  
