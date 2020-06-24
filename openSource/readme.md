@@ -4,9 +4,11 @@ Agenda :
 
 2)Open source and IBM - Martin Hickey
 
-3)Open Source Developer - my Personal Expereince (David and Martin )
+3)Fork the git and fix the issue as per Qiskit standard - Francis Harkins/
 
-4)Q & A 
+4)Open Source Developer - my Personal Expereince (David and Martin )
+
+5)Q & A 
 
 
 Speaker Profile :
