@@ -23,7 +23,11 @@ He has many years’ experience in the creation of enterprise software for diffe
 
 2) David  Radley:
 
-David has worked for IBM since 1988. For the first half of his career, he worked on CICS - enterprise middleware. Then David worked on IBM Information management as a Master Data Management developer, and as the technical lead for the collaborative editions. David then moved to work on solutions architecture in the information management space for Mandy Chessell.
+David has worked for IBM since 1988. For the first half of his career, he worked on CICS - enterprise middleware. Then David worked on IBM Information management as a Master Data Management developer, and as the technical lead for the collaborative editions. David then moved to work on solutions architecture in the information management space .
 In this role, David co-authored a red book on Data lakes , MDM and EMM.David collaboratively worked with ING Bank to produce the open metadata architecture. Initially this this work was on Apache Atlas, where David (working closely with Hortonworks) introduced the concept of a Relationship as a top level concept to Apache Atlas, and became an Apache Committer. 
 Subsequently, David was involved from the start with Linux Foundation project Egeria, on which he is a maintainer. David is enthusiastic to spread the benefits of metadata driven architecture using open source. 
 David leads the Egeria semantic workgroup, which consists of people from different companies interested in semantics, working to producing Egeria code enhancements. In addition to working on semantics, David is currently developing a React based UI for Egeria. 
+
+3) Francis Harkins:
+
+Francis is a quantum education developer, working on Qiskit's educational materials.
