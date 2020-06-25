@@ -31,3 +31,7 @@ David leads the Egeria semantic workgroup, which consists of people from differe
 3) Francis Harkins:
 
 Francis is a quantum education developer, working on Qiskit's educational materials.
+
+## Miscallenous Links
+1) Egeria Dojo education including making a contribution is here https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/ 
+2) Helm contrbution process: https://github.com/helm/community#your-first-contribution
