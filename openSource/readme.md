@@ -1,14 +1,14 @@
 Agenda :
 
-1)philosophy of open source - by David Radley
+1) Philosophy of open source - by David Radley
 
-2)Open source and IBM - Martin Hickey
+2) Open source and IBM - Martin Hickey
 
-3)Fork the git and fix the issue as per Qiskit standard - Francis Harkins/
+3) Fork the git and fix the issue as per Qiskit standard - Francis Harkins/
 
-4)Open Source Developer - my Personal Expereince (David and Martin )
+4) Open Source Developer - my Personal Expereince (David and Martin )
 
-5)Q & A 
+5) Q & A 
 
 
 Speaker Profile :
