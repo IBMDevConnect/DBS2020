@@ -17,7 +17,7 @@
  
  7) [Open Source on June 25](https://github.com/IBMDevConnect/DBS2020/tree/master/openSource)
  
- 8) Cloud, Containers and MicroServices
+ 8) [Cloud, Containers and MicroServices]()
  
  
 # Prerequisites
