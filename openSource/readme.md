@@ -1,3 +1,4 @@
+# The workshop was recorded and the recording is available [here] (https://youtu.be/UWRBLC2RDJU)
 # Agenda :
 
 1) Philosophy of open source - by David Radley
