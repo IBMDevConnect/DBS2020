@@ -42,3 +42,4 @@ Qiskit Repository:
 https://github.com/qiskit/
 Qiskit Community Repository:
 https://github.com/qiskit-community
+5) Check out open source at: https://www.ibm.com/opensource/
