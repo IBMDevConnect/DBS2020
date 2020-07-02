@@ -13,10 +13,9 @@ Break - 10 mins
 
 Hands-on - 90 mins - Sudharshan and Raghavendra
 
-Deploy a microservices app on IBM Cloud by using Kubernetes
-Run a simple storefront app on IBM Cloud that demonstrates independent, reliable, and scalable services working together in a microservices architecture
+This lab walks through creating and deploying a simple "guestbook" app written in Go as a net/http Server and accessing it
  
 Link
  
-https://www.ibm.com/cloud/architecture/tutorials/microservices-app-on-kubernetes
+https://github.com/IBM/kube101/tree/master/workshop
  
