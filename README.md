@@ -17,7 +17,7 @@
  
  7) [Open Source on June 25](https://github.com/IBMDevConnect/DBS2020/tree/master/openSource)
  
- 8) [Cloud, Containers and MicroServices](https://github.com/IBMDevConnect/DBS2020/tree/master/DockerK8s)
+ 8) [Cloud, Containers and MicroServices on July 2](https://github.com/IBMDevConnect/DBS2020/tree/master/DockerK8s)
  
  
 # Prerequisites
